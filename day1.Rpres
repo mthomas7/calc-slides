@@ -37,18 +37,18 @@ The populations:
 
 The Setup
 ===
-- We start with 7 Infecteds, everyone else is susceptible
+- We start with 7 Infected, everyone else is susceptible
   - keep your identity secret!
 - We'll mingle, then find a partner.
 - Pairs play rock paper scissors.
-  - S/I: If the sick person wins, the susceptible become infected. The susceptibles write down the day they became infected.
+  - S/I: If the sick person wins, the susceptible become infected. The susceptible write down the day they became infected.
   - S/S: Nothing
   - I/I: Nothing
-- Starting on day 3, infecteds will recover. (e.g. if you started infected, you recover after 3 days, etc.)
+- Starting on day 3, infected will recover. (e.g. if you started infected, you recover after 3 days, etc.)
 - Record each day and your state each day!
 - I'll record results at the end
 
-What happend?
+What happened?
 ===
 What might this look like as a graph?
 
