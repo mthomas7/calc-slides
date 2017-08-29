@@ -14,6 +14,7 @@ autosize: true
 - Syllabus
 - Learning goals
 - Haiku
+- Webwork
 
 ## A Quote
 "The grading system for this calculus class is likely different than anything you have seen in your classes before. At first it will seem like the website used and the way grades are determined make no sense, but at the end of the class you will see the benefits. First of all, the Haiku website can prove to be more comprehensive than Sakai if you take a moment to figure it out. As for the grades themselves, everything is broken down into topics covered in the class. The rubric you received for your grades mentions these “learning goals” along with videos and labs. You have to master a set number of learning goals for an A, and certain numbers for lower grades. However, the beauty of the grading system is a balance between the learning goals, videos, labs, etc.
