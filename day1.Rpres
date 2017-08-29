@@ -45,6 +45,9 @@ The Setup
   - S/S: Nothing
   - I/I: Nothing
 - Starting on day 3, infected will recover. (e.g. if you started infected, you recover after 3 days, etc.)
+
+The Setup
+===
 - Record each day and your state each day!
 - I'll record results at the end
 
