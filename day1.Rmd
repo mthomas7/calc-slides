@@ -1,12 +1,14 @@
-Welcome to Calculus!
-========================================================
-author: Math 111
-date: Aug 30, 2017
-autosize: true
+---
+title: "Welcome to Calculus"
+author: "Math 111"
+date: "Aug 30, 2017"
+output: 
+  ioslides_presentation: 
+    incremental: yes
+    widescreen: yes
+---
 
-Introductions
-========================================================
-incremental:true
+## Introductions
 - Get a note card
 - Find a stranger
   - Name
@@ -14,29 +16,24 @@ incremental:true
   - An interest
   - Something you're good at
 
-More Introductions
-========================================================
+## More Introductions
 - Find a new pair of strangers
 - Introduce your new friend to them
 
-More About Those Things You're Good At...
-========================================================
+## More About Those Things You're Good At...
 - Let's make a list
 
-The Course Website
-===
+## The Course Website
 - Haiku
   - Check it out
   
-Modeling Disease: SIR
-===
+## Modeling Disease: SIR
 The populations:
 - S - susceptible
 - I - infected
 - R - recovered
 
-The Setup
-===
+## The Setup
 - We start with 7 Infected, everyone else is susceptible
   - keep your identity secret!
 - We'll mingle, then find a partner.
@@ -46,13 +43,11 @@ The Setup
   - I/I: Nothing
 - Starting on day 3, infected will recover. (e.g. if you started infected, you recover after 3 days, etc.)
 
-The Setup
-===
+## The Setup
 - Record each day and your state each day!
 - I'll record results at the end
 
-What happened?
-===
+## What happened?
 What might this look like as a graph?
 
 How to S, I, and R interact?
