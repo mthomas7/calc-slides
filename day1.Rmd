@@ -11,10 +11,10 @@ output:
 ## Introductions
 - Get a note card
 - Find a stranger
-  - Name
-  - Major
-  - An interest
-  - Something you're good at
+    - Name
+    - Major
+    - An interest
+    - Something you're good at
 
 ## More Introductions
 - Find a new pair of strangers
@@ -25,7 +25,7 @@ output:
 
 ## The Course Website
 - Haiku
-  - Check it out
+    - Check it out
   
 ## Modeling Disease: SIR
 The populations:
@@ -35,12 +35,12 @@ The populations:
 
 ## The Setup
 - We start with 7 Infected, everyone else is susceptible
-  - keep your identity secret!
+    - keep your identity secret!
 - We'll mingle, then find a partner.
 - Pairs play rock paper scissors.
   - S/I: If the sick person wins, the susceptible become infected. The susceptible write down the day they became infected.
-  - S/S: Nothing
-  - I/I: Nothing
+    - S/S: Nothing
+    - I/I: Nothing
 - Starting on day 3, infected will recover. (e.g. if you started infected, you recover after 3 days, etc.)
 
 ## The Setup
