@@ -50,7 +50,7 @@ The populations:
 ## What happened?
 What might this look like as a graph?
 
-How to S, I, and R interact?
+How to S, I, and R interact? What do they depend on?
 
 
 
