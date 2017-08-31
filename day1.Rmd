@@ -47,10 +47,7 @@ The populations:
 - Record each day and your state each day!
 - I'll record results at the end
 
-## What happened?
-What might this look like as a graph?
 
-How to S, I, and R interact? What do they depend on?
 
 
 
