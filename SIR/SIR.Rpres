@@ -7,6 +7,7 @@ autosize: true
 Logistics
 ===
 Syllabus questions?
+
 Homework:
   * Webwork
   * Survey
@@ -93,7 +94,7 @@ incremental:true
 * $R'(d)$: This seems complicated - how can we simplify the "3 day recovery rule"?
 * What if we assume 1/3 of the current infected population recovers each day?
 
-* Suppose I(4) = 2100 people
+* Suppose $I(4) = 2100$ people
   * What would $R'(5)$ be?
   * What would $R(5)$ be?
   * What would $I(5)$ be?
@@ -101,7 +102,7 @@ incremental:true
 
 Rate of Transmission
 ===
-* $S'(t)
+* $S'(t)$
 * What factors affect rate of disease transmission?
 * Simple scenario:
   * 5 healthy people
@@ -113,7 +114,7 @@ Rate of Transmission
 
 Rate of Transmission
 ===
-* $S'(t)
+* $S'(t)$
 * What factors affect rate of disease transmission?
 * Simple scenario:
   * 5 healthy people
