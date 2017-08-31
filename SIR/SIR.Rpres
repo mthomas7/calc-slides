@@ -4,6 +4,15 @@ author: Math 111
 date: 
 autosize: true
 
+Logistics
+===
+Syllabus questions?
+Homework:
+  * Webwork
+  * Survey
+  * HW Set 1
+  * Section numbers in text (on calendar)
+
 Graphing
 ===
 Let's look at a graph of yesterday's data
@@ -93,3 +102,44 @@ incremental:true
 Rate of Transmission
 ===
 * $S'(t)
+* What factors affect rate of disease transmission?
+* Simple scenario:
+  * 5 healthy people
+  * 3 sick people
+  * Interaction always leads to infection
+* How many possible interactions are there between a healthy person and a sick person?
+* How many people will get sick during day 1?
+* What factors influence this?
+
+Rate of Transmission
+===
+* $S'(t)
+* What factors affect rate of disease transmission?
+* Simple scenario:
+  * 5 healthy people
+  * 3 sick people
+  * Interaction always leads to infection
+* How many possible interactions are there between a healthy person and a sick person?
+* How many people will get sick during day 1?
+* What factors influence this?
+* What if 1/3 of interactions leads to infection?
+* Write a mathematical expression
+
+Notation
+===
+* S*I = the total number of possible "interactions" between healthy and sick people if there are S susceptibles and I infecteds
+* p = proportion of interactions that actually happen in a day
+* q = probability an interaction infects a susceptible.
+* pSI = number of interactions that *occur*
+* qpSI = number of new sick people
+
+* a=qp 
+* a is the "transmission coefficient""
+
+Full model
+===
+$S'(t) = -a S(t) I(t)$
+
+$I'(t) = a S(t) I(t)-b I(t)$
+
+$R'(t) = b I(t)$
