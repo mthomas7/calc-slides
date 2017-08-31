@@ -144,3 +144,7 @@ $S'(t) = -a S(t) I(t)$
 $I'(t) = a S(t) I(t)-b I(t)$
 
 $R'(t) = b I(t)$
+
+Using a spreadsheet
+===
+Let's use a spreadsheet to start to model this
