@@ -176,6 +176,7 @@ Additionally, assume that we start with 45400 susceptibles, 2100 infecteds, and 
 recovereds when t = 0 days.
 
 BY HAND:
+===
 - Initially, what are the values for $S'$, $I'$, and $R'$? (Including units)
 - Based on our rate equations, how many susceptibles, infecteds, and recovereds will there be in one day (when $t = 1$)?
 - What are the values for $S'$, $I'$, and $R'$ when $t = 1$ day?
