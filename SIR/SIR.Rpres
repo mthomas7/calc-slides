@@ -14,6 +14,16 @@ Homework:
   * HW Set 1
   * Section numbers in text (on calendar)
 
+<!--
+A Quote
+===
+"The grading system for this calculus class is likely different than anything you have seen in your classes before. At first it will seem like the website used and the way grades are determined make no sense, but at the end of the class you will see the benefits. First of all, the Haiku website can prove to be more comprehensive than Sakai if you take a moment to figure it out. As for the grades themselves, everything is broken down into topics covered in the class. The rubric you received for your grades mentions these “learning goals” along with videos and labs. You have to master a set number of learning goals for an A, and certain numbers for lower grades. However, the beauty of the grading system is a balance between the learning goals, videos, labs, etc.
+
+Continued
+===
+On tests and homework assignments, questions are designated with the associated learning goals, and correctly answering them will lead you to a mastery of that learning goal. When it comes time for the final, the exam is tailored to you specifically. Any learning goals you have already mastered will not be on the exam and you can choose the learning goals you want to still master to be included on the test. Focus on the learning goals, and don’t stress about the ones you don’t master. You will have an opportunity to do so. Do your assignments and study and you’ll do great. Take it from me, a student whose grade was a D- at midterms and an A- at finals, your grade can be saved."
+-->
+
 Graphing
 ===
 Let's look at a graph of yesterday's data
@@ -148,3 +158,81 @@ $R'(t) = b I(t)$
 Using a spreadsheet
 ===
 Let's use a spreadsheet to start to model this
+
+Checking in
+===
+Questions?
+
+Measles
+===
+incremental:true
+Say we have found data from past measles epidemics and have determined that $a = 0.00001$ and $b = \frac{1}{14}$.
+
+What are the rate equations?
+
+Based on these numbers, how many days does it take to recover from the measles?
+
+Additionally, assume that we start with 45400 susceptibles, 2100 infecteds, and 2500
+recovereds when t = 0 days.
+
+BY HAND:
+- Initially, what are the values for $S'$, $I'$, and $R'$? (Including units)
+- Based on our rate equations, how many susceptibles, infecteds, and recovereds will there be in one day (when $t = 1$)?
+- What are the values for $S'$, $I'$, and $R'$ when $t = 1$ day?
+- Based on our rate equations, how many susceptibles, infecteds, and recovereds will there be in two days, when $t = 2$?
+
+Table
+===
+Continue the calculations by filling in the following table.
+
+| t | S | I | R | S' | I' | R' |
+|:-:|:-:|:-:|:-:|:--:|:--:|:--:|
+| 0 |   |   |   |    |    |    |
+| 1 |   |   |   |    |    |    |
+| 2 |   |   |   |    |    |    |
+| 3 |   |   |   |XX  |XX  |XX  |
+
+What does this buy us?
+===
+- It's a simple model, but it's a good place to start from.
+- Can give us both qualitative and quantitative data
+
+Spreadsheet
+===
+Build the same model using a spreadsheet
+
+There and Back Again
+===
+incremental:true
+- We start with 45400 susceptibles, 2100 infecteds, and 2500 recovereds. Using the rate
+equations, what do you think will be the result of projecting forward one day to find
+the populations, and then projecting backwards one day?
+- Numerically project forward a day and back a day. Does the result match your pre-
+diction? Why or why not?
+- Why do we not get the size of our initial populations when we step forward and
+backward?
+- Now project forward 2 days using our rate equations and backward two days using our
+rate equations. What do you notice? How do your results relate to the results in the
+previous part?
+
+Errors
+===
+<center>
+Why does it matter how we handle the "2 days" question?
+</center>
+
+Step Sizes
+===
+- What other step sizes could we use besides 2 days?
+- Does it make a difference? If so - why and how?
+- Try the questions using a step size of half a day.
+
+
+Euler's method
+===
+This method is called "Euler's method" (after Leonhard Euler)
+
+
+
+Slopes as Multipliers
+===

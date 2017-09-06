@@ -1,8 +1,0 @@
----
-title: "Day 3"
-author: "Math 111"
-date: "August 29, 2017"
-output: ioslides_presentation
----
-
-## Research Stuff
