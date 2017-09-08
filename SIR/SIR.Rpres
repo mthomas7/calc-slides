@@ -237,7 +237,7 @@ It works for any size of steps
 
 Slopes as Multipliers
 ===
-How are the changes ($\Delta$'s) related to the derivatives ($S'(d)$, $R'(d)$, $I'(d)$)?
+How are the changes ($\Delta$'s) related to the derivatives: $S'(d)$, $R'(d)$, $I'(d)$?
 
 General functions
 ===
