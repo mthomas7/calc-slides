@@ -231,9 +231,11 @@ Step Sizes
 
 Euler's method
 ===
-This method is called "Euler's method" (after Leonhard Euler)
+This method is called "Euler's method" (after Leonhard Euler), it works for any size of steps
 
-It works for any size of steps
+<center>
+![](https://divisbyzero.files.wordpress.com/2010/11/screen-shot-2010-11-11-at-12-53-10-pm.png)
+</center>
 
 Slopes as Multipliers
 ===
