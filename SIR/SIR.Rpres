@@ -241,9 +241,12 @@ Slopes as Multipliers
 ===
 How are the changes ($\Delta$'s) related to the derivatives: $S'(d)$, $R'(d)$, $I'(d)$?
 
+The Reading
+===
+
 General functions
 ===
-What if we know a general function value $f(a)$ (at a single point), and we can figure out $f'(t)$ at any value? What does this buy us?
+What if we know a general function value $f(a)$ (at a single point), and we can figure out $f'(t)$ at any value? What does this buy us? (Use steps of size $\Delta t$)
 
 A New Model
 ===
@@ -251,3 +254,7 @@ A New Model
 * At any point in time, the population is growing at a rate following the equation $P'(t) = 0.2 P(t)$.
 * There are 100 bunnies initially.
 * How many bunnies will there be in 4 months?
+
+Interpreting
+===
+What does all this mean graphically?
