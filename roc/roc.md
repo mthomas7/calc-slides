@@ -10,10 +10,13 @@ Rocket Ship!
 
 Rocket Ship!
 ===
+left:80%
 
 When rockets are launched, mission control monitors numerous aspects of the situation. The table and graph below show some of the data from April 8, 2016 launch of a SpaceX CRS-8 Dragon module on top of a Falcon-9 rocket.
 
 * What is the average speed of the rocket from 24 to 48 seconds?
+* Write a sentence to explain what it means to say the rocket is traveling at a constant speed of 1334 ft/s.
+* How do the previous two bullet points relate?
 
 ***
 
@@ -28,7 +31,7 @@ When rockets are launched, mission control monitors numerous aspects of the situ
 |             56            |         59.472        |
 |            124            |        275.032        |
 
-* Write a sentence to explain what it means to say the rocket is traveling at a constant speed of 1334 ft/s.
+
 
 What is Average Velocity?
 ===
