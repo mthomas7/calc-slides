@@ -51,5 +51,5 @@ How fast is the rocket moving after 48 seconds?
 Jigsaw!
 ===
 
-Crossbow bolt activity
+Crossbow bolt
 ===
