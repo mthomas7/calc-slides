@@ -53,3 +53,23 @@ Jigsaw!
 
 Crossbow bolt
 ===
+
+Using a function
+===
+* Suppose the height of a rocket was given by $h(t)=t^t$
+* Approximate the velocity of the rocket at $t=2$.
+
+Microscope equation
+===
+1. You are driving down the highway on cruise control at an extremely legal speed of 65 mph. Your trip is 400 miles long.
+  * How long will it take to drive 90 miles?
+  * If you increase your speed by 5 mph, how much time will you cut off your trip? (that is, how will this change in speed change the length of your trip?)
+  * What if you instead increase your speed by only 1 mph?
+  * By only 0.1 mph?
+  
+Microscope equation
+===
+2. If s is the speed at which you are driving and T is the length of your trip, write an expression relating $T$ and $s$.
+  * Approximate (as close as you can) the value of $T'(65)$.
+  * What are the units of $T'(65)$?
+  * Discuss: How can you use the value of $T'(65)$ to help you solve the previous problem?
