@@ -59,6 +59,20 @@ Using a function
 * Suppose the height of a rocket was given by $h(t)=t^t$
 * Approximate the velocity of the rocket at $t=2$.
 
+Another function
+===
+Suppose $f(x)=(5x)^{2/3}$.
+
+Approximate $f'(10)$.
+
+What does this look like graphically?
+
+Represent your approximations on desmos.
+
+***
+
+<iframe src="https://www.desmos.com/calculator/czhdizdicf?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
+
 Microscope equation
 ===
 1. You are driving down the highway on cruise control at an extremely legal speed of 65 mph. Your trip is 400 miles long.
