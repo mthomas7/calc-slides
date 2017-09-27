@@ -87,3 +87,15 @@ Microscope equation
   * Approximate (as close as you can) the value of $T'(65)$.
   * What are the units of $T'(65)$?
   * Discuss: How can you use the value of $T'(65)$ to help you solve the previous problem?
+  
+Linearization
+===
+
+* Say we're interested in evaluating $2^{3.1}$, $2^{3.2}$, $2^{3.15}$, etc.
+* We can use the idea of linearization to help us approximate.
+* Consider the function $f(x)=2^x$, but we'll focus on values near $x=3$.
+* Let's think about this in the context of a graphing microscope...
+
+***
+
+<iframe src="https://www.desmos.com/calculator/eij1v1qbwb?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
