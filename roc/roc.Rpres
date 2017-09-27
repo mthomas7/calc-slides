@@ -87,7 +87,11 @@ Microscope equation
   * Approximate (as close as you can) the value of $T'(65)$.
   * What are the units of $T'(65)$?
   * Discuss: How can you use the value of $T'(65)$ to help you solve the previous problem?
-  
+
+Difference Quotient
+===
+applet
+
 Linearization
 ===
 
@@ -99,3 +103,7 @@ Linearization
 ***
 
 <iframe src="https://www.desmos.com/calculator/eij1v1qbwb?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+Interpreting Derivatives
+===
+Jigsaw
