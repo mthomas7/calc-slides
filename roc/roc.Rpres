@@ -3,6 +3,8 @@ Rates of Change and Local Linearity
 author: Math 111
 date: 
 autosize: false
+height:1080
+width:1920
 
 Rocket Ship!
 ===
@@ -107,3 +109,24 @@ Linearization
 Interpreting Derivatives
 ===
 Jigsaw
+
+Rover
+===
+The NASA Q36 Robotic Lunar Rover can travel up to 3 hours on a single charge and has a range of 1.6 miles. After leaving its base and traveling for $t$ hours, the speed of the Q36 is given by the function:
+
+$$v(t) = \sin(\sqrt{9-t^2})$$
+
+in miles per hour.
+
+You know:
+* One hour into an excursion, the Q36 will have traveled 0.19655 miles.
+* At 2.8 hours into a trip, the Q36 will have traveled 1.4694 miles.
+
+***
+
+Want to know:
+* Make a prediction for the position of the rover 1 hour and six minutes (1.1 hours).
+* Make a prediction for the position of the rover 54 minutes into the trip (0.9 hours).
+* For each of the previous two answers, determine whether your estimate is an overestimate or an underestimate. Explain how you know this, and justify your answer using both language related to the velocity graph and language related to the rover.
+* Make a prediction for the position of the rover at 2.7 and 2.9 hours. Are these under or overestimates?
+* Extension: Make a rough sketch of what the position of the lunar rover is at each point in time!
