@@ -130,3 +130,22 @@ Want to know:
 * For each of the previous two answers, determine whether your estimate is an overestimate or an underestimate. Explain how you know this, and justify your answer using both language related to the velocity graph and language related to the rover.
 * Make a prediction for the position of the rover at 2.7 and 2.9 hours. Are these under or overestimates?
 * Extension: Make a rough sketch of what the position of the lunar rover is at each point in time!
+
+Extension
+===
+If $$v(t) = \sin(\sqrt{9-t^2})$$ sketch $v'(t)$. This is the derviative of the derivative of position, so we can notate it $p''(t)$. This is called the second derivative.
+
+Derivative Sketching
+===
+incremental:true
+
+* Draw a function on a spare sheet of paper. It can be any function at all. Do not worry about a formula.
+* Pass your page to a neighbor.
+* Sketch the derivative of the function given to you.
+* Pass your paper to another neighbor.
+* Draw a function who's derivative is the *original* function.
+* Pass the paper back to the original owner.
+
+More derivative sketching
+===
+Using the applets and examples you just sketched, relate proporties of a function, its first derivative, and its second derivative.
