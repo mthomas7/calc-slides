@@ -45,3 +45,12 @@ Examples
 * $\dfrac{5x^2}{x^3+1}$
 * $\dfrac{1}{1+e^x}$
 * $\dfrac{e^x}{x^2}$
+
+Dosages
+===
+A dose, $D$, of a drug (in mg) causes a temperature change, $T$ (in degrees $C$), in a patient. For $C$ a positive constant, $T$ is given by:
+
+$$T = \left( \frac{C}{2} - \frac{D}{2} \right) D^2$$
+
+* What is the rate of change of temperature with respect to dose?
+* For what doeses does the temerature change increase as the dose increases?

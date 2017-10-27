@@ -41,22 +41,12 @@ Weight is a function of height: $$W(H) = 0.00072H2.17$$
 
 As age increases, how quickly does height increase?
 
-Dosages
+An Oil Tanker
 ===
-A dose, $D$, of a drug (in mg) causes a temperature change, $T$ (in degrees $C$), in a patient. For $C$ a positive constant, $T$ is given by:
+A ruptured oil tanker causes a circular oil slick on the surface of the ocean. When its radius is 150 meters, the radius of the slick is expanding by 0.1 meter/minute and its thickness is 0.03 meter. At that moment:
+* How fast is the area of the slick expanding?
+* The circular slick has the same thickness everywhere, and the volume of the oil spilled remains fixed. How fast is the thickness of the slick decreasing?
 
-$$T = \left( \frac{C}{2} - \frac{D}{2} \right) D^2$$
-
-* What is the rate of change of temperature with respect to dose?
-* For what doeses does the temerature change increase as the dose increases?
-
+A Triangle
 ===
-
-
-A ruptured oil tanker causes a circular oil slick on the surface of the ocean. When its radius is 150 meters, the radius of the slick is expanding by 0.1 meter/minute and its thickness is 0.03 meter. At that moment
-How fast is the area of the slick expanding?
-The circular slick has the same thickness everywhere, and the volume of the oil spilled remains fixed. How fast is the thickness of the slick decreasing?
-
-===
-
 A right triangle has one leg of 7 cm. How fast is its area changing at the instant that the other leg has length 10 cm and is decreasing at 2 cm per second?
