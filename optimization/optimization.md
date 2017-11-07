@@ -11,8 +11,8 @@ Questions from Video?
 How do we optimize functions?
 ===
 * This means looking for maxima and minima
-* We'll look at examples of why we might want to optimize in the real world in a bit - first we'll find a procedure.
-* What is true about a function at a maximum or a minimum?
+* We'll look at examples of why we might want to optimize in the real world in a bit - first we'll find a procedure for functions.
+* What does it mean for a function to achieve a maximum? A minimum?
 
 Some language
 ===
@@ -21,12 +21,16 @@ Some language
 * Global max
 * Global min
 
+* How can we define each of these?
+
 Examples
 ===
 * $f(x)=-2x^2+3x+3$
 * $f(x)=\ln\left(x\right)-x$
 * $f(x)=x^3$
 * $f(x)=x^{2/3}$
+
+* Use calculus and graph with desmos to check your answers
 
 Lessons
 ===
@@ -38,13 +42,25 @@ A different question
 ===
 What is the minimum of the function $f(x)= -2x^2+3x+3$ on the interval from $x=0$ to $x=2$?
 
+Other relevant questions:
+* Local maxima?
+* Local minima?
+* Global maxima?
+* Global minima?
+
+Correct me
+===
+In the last example, the global minimum is $x=2$.
+
 Lesson
 ===
 When looking for maxes/mins on a specific interval, we may also need to check endpoints.
 
 Procedure
 ===
-
+Let's define a procedure for finding:
+* Maxima/minima on the entire domain of a function
+* Maxima/minima on a specific interval of a function
 
 
 
