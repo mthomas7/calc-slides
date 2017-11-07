@@ -58,9 +58,13 @@ When looking for maxes/mins on a specific interval, we may also need to check en
 
 Procedure
 ===
+incremental:true
+
 Let's define a procedure for finding:
 * Maxima/minima on the entire domain of a function
 * Maxima/minima on a specific interval of a function
+
+* How do we decide whether a critical point is a max or a min?
 
 
 
