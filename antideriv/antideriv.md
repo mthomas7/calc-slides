@@ -47,11 +47,11 @@ Using the FTC
 
 Evaluate:
 
-$$\int_{-1}^2 sin(x) dx$$
+$$\int_{-1}^2 \sin(x) dx$$
 
-$$\int_{-1}^2 cos(x) dx$$
+$$\int_{-1}^2 \cos(x) dx$$
 
-$$\int_{-1}^t sin(x) dx$$
+$$\int_{-1}^t \sin(x) dx$$
 
 $$\int_3^4 \dfrac{1}{x} dx$$
 
@@ -60,3 +60,9 @@ General propoerties
 $$\int_a^b f(x) dx = -\int_b^a f(x) dx$$
 
 $$\int_a^b f(x) dx + \int_b^c f(x) dx = \int_a^c f(x) dx$$
+
+Challenge
+===
+Find a general antiderivative to
+
+$$f(x)=e^{5x^2}$$
