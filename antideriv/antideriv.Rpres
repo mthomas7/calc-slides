@@ -66,3 +66,10 @@ Challenge
 Find a general antiderivative to
 
 $$f(x)=e^{5x^2}$$
+
+General strategies
+===
+
+* If you have a polynomial divided by $x^a$
+* If you know a particular value, e.g. F(1)=4
+* Derivative of integral vs integral of derivative
