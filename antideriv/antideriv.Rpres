@@ -61,11 +61,25 @@ $$\int_a^b f(x) dx = -\int_b^a f(x) dx$$
 
 $$\int_a^b f(x) dx + \int_b^c f(x) dx = \int_a^c f(x) dx$$
 
+What if $a < c < b$?
+
 Challenge
 ===
 Find a general antiderivative to
 
 $$f(x)=e^{5x^2}$$
+
+Integral Rules
+===
+Note that the FTC means these are useful for both indefinite definite integrals.
+
+* Monomials
+* Polynomials
+* Trig function
+* log functions
+* exponential functions
+
+Note: products and compositions are going to be harder
 
 General strategies
 ===
@@ -73,3 +87,8 @@ General strategies
 * If you have a polynomial divided by $x^a$
 * If you know a particular value, e.g. F(1)=4
 * Derivative of integral vs integral of derivative
+
+Back to the applet
+===
+* How do we know the constant term in $q(t)$?
+* How does it change when we change $a$? How can we figure out the value of the constant?
