@@ -69,6 +69,15 @@ Find a general antiderivative to
 
 $$f(x)=e^{5x^2}$$
 
+Notation
+===
+
+$$\int \dfrac{1}{x} dx$$
+vs
+$$\int \dfrac{1}{t} dt$$
+vs
+$$\int \dfrac{1}{(cabin)} d(cabin)$$
+
 Integral Rules
 ===
 Note that the FTC means these are useful for both indefinite definite integrals.
