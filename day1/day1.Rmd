@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Calculus"
 author: "Math 111"
-date: "Aug 30, 2017"
+date: "Aug 29, 2018"
 output: 
   ioslides_presentation: 
     incremental: yes
@@ -9,7 +9,6 @@ output:
 ---
 
 ## Introductions
-- Get a note card
 - Find a stranger
     - Name
     - Major
@@ -46,18 +45,3 @@ The populations:
 ## The Setup
 - Record each day and your state each day!
 - I'll record results at the end
-
-
-
-
-
-<!-- ernst What are the goals of a college education?
-How does a person learn something new?
-What do you reasonable expect to remember from your courses in
-20 years?
-What is the value of making mistakes in the learning process?
-How do we create a safe environment where risk-taking is
-encouraged and productive failure is valued?
-
-
--->
