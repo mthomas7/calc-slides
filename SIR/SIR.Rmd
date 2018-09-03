@@ -51,9 +51,11 @@ include_graphics("D.png")
 We discussed important features of our model. How do S, I, and R relate to each other?
 
 ## Scenario 1
+
 Suppose that the city's Board of Health reports that the measles infection has been spreading at the rate of 470 new cases per day for the last several days. 
 
 If that rate continues to hold steady and our population starts with 20,000 susceptible people, determine the following:
+
 * What will the size of the susceptible population be in 4 days? 
 * How many new infections have occurred in these 4 days? 
 * How many susceptibles were there 2 days ago?
