@@ -3,6 +3,7 @@
 * [Day 1](./day1/day1.html)
 * [SIR](./SIR/SIR.html)
 * [Rates of Change](./roc/roc.html)
+* [Antiderivaties](./antideriv/antideriv.html)
 
 <!--
 * [Differential Equations](./diffeq/diffeq.html)
